@@ -1,0 +1,3 @@
+1) Use mkdir command or create new folders
+2) This is not GIT directory. It is just normal folder structure. Git repository will have ".git" folder.
+3) Use git init command.
