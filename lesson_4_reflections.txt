@@ -1,0 +1,4 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- 	Fork  -> To copy repository from other's GitHub account (cloning from other GitHub account)
+	Clone -> To copy epository from Github account to local machine
+	Branch-> To make versions of projects 
