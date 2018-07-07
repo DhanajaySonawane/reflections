@@ -1,4 +1,7 @@
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 - 	Fork  -> To copy repository from other's GitHub account (cloning from other GitHub account)
-	Clone -> To copy epository from Github account to local machine
-	Branch-> To make versions of projects 
+	Clone -> To copy repository from Github account to local machine
+	Branch-> To make versions of projects
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- If we don't do so,then we will end up with more number of merge conflicts which will be annoying to resplve.
