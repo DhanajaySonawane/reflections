@@ -9,3 +9,11 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - We can use SVN to work collaborately on project. But, SVN only supports check-in, check-out option.
   It does not provide version control.
+
+When would you want to make changes in a separate branch rather than directly in master?What benefits 
+does each approach have?
+- If we want to collaborately make changes with large number of people, then we should do it derectly with master braanch.
+  But, this has disadvantage. If some error occurs, it will directly affect on master branch.
+  On other hand, if only few person going to work on new feature,then they should work on new branch. Since with less
+  number of people, it is easy to handle merge pull request on GitHub. So. whether to make change on mster or 
+  separate branch depends on number of people working on it.
