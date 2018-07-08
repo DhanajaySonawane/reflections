@@ -5,3 +5,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 - If we don't do so,then we will end up with more number of merge conflicts which will be annoying to resplve.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- We can use SVN to work collaborately on project. But, SVN only supports check-in, check-out option.
+  It does not provide version control.
